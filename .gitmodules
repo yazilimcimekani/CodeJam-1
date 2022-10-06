@@ -1,0 +1,6 @@
+[submodule "fatih_sen"]
+	path = fatih_sen
+	url = https://github.com/fatihydrm/ym-codejam
+[submodule "ibrahim_hakki_ergin"]
+	path = ibrahim_hakki_ergin
+	url = https://github.com/06ergin06/codejam-gallery
