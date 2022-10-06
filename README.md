@@ -17,6 +17,6 @@ yarışmacılardan one page fotoğraf galerisi başlığında bir sayfa oluştur
 
 ## Kazanan Projeler:
 
-[@fatihydrm Projesi](https://github.com/fatihydrm/ym-codejam)
+[@fatihydrm](https://github.com/fatihydrm) Projesi - https://codejam-leos.vercel.app/
 
-[@06ergin06 Projesi](https://github.com/06ergin06/codejam-gallery)
+[@06ergin06](https://github.com/06ergin06) Projesi - https://codejam-gallery.tk/
