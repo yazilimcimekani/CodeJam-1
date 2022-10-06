@@ -13,7 +13,7 @@ yarışmacılardan one page fotoğraf galerisi başlığında bir sayfa oluştur
 
 - Projelerinizi tamamladığınızda kaynak kodlarını GitHub hesabınıza eklemeli ve daha sonra projenizin linkini isminiz ile birlikte `👨💻・codejam` discord kanalında paylaşmalısınız.
 
-**25 Eylül tarihinden itibaren 1 hafta süren CodeJam etkinliğimiz 2 Ekim tarihinde sonlanmıştır.** Yapılan değerlendirmeler sonucunda birinciliğe hak kazanan iki proje sahibi ( [@fatihydrm](https://github.com/fatihydrm) ve [@06ergin06](https://github.com/06ergin06/) ) 200 TL değerindeki para ödülünü kazanmışlardır. Kendilerini tebrik ederiz.
+**25 Eylül tarihinden itibaren 1 hafta süren CodeJam etkinliğimiz 2 Ekim tarihinde sonlanmıştır.** Yapılan değerlendirmeler sonucunda birinciliğe hak kazanan iki proje sahibi ( [@fatihydrm](https://github.com/fatihydrm) ve [@06ergin06](https://github.com/06ergin06/) ) 200'er TL değerindeki para ödülünü kazanmışlardır. Kendilerini tebrik ederiz.
 
 ## Kazanan Projeler:
 
